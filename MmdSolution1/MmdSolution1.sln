@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClaenArch.Application", "ClaenArch.Application", "{E73C97CD-E809-45C7-B774-E6BF1919C591}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClaenArch.Domain", "ClaenArch.Domain", "{5FE51FAB-513D-4F45-AB43-4070D6C0C8AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClaenArch.Infra.Data", "ClaenArch.Infra.Data", "{71DEDAA0-9D49-47D3-A11E-F78FA3776FE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClaenArch.Infra.Ioc", "ClaenArch.Infra.Ioc", "{D431668C-55B7-4DAD-8C77-A7D614AF3380}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClaenArch.UI.MVC", "ClaenArch.UI.MVC", "{FC4760B7-7D05-407E-9FEE-8E99D478B44C}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
