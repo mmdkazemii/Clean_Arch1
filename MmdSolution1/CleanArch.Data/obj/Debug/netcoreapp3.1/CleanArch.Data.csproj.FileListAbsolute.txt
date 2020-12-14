@@ -1,0 +1,17 @@
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\bin\Debug\netcoreapp3.1\CleanArch.Data.deps.json
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\bin\Debug\netcoreapp3.1\CleanArch.Data.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\bin\Debug\netcoreapp3.1\CleanArch.Data.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.AssemblyInfoInputs.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.AssemblyInfo.cs
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\bin\Debug\netcoreapp3.1\CleanArch.Data.runtimeconfig.json
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\bin\Debug\netcoreapp3.1\CleanArch.Data.runtimeconfig.dev.json
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.genruntimeconfig.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.Properties.Resources.resources
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.csproj.GenerateResource.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.csproj.CoreCompileInputs.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.csprojAssemblyReference.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Data\obj\Debug\netcoreapp3.1\CleanArch.Data.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.deps.json
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.runtimeconfig.json
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.runtimeconfig.dev.json
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.genruntimeconfig.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csprojAssemblyReference.cache
