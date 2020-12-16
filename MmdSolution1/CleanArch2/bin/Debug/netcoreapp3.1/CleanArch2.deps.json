@@ -25,6 +25,7 @@
       "CleanArch2/1.0.0": {
         "dependencies": {
           "CleanArch.Data": "1.0.0",
+          "CleanArch.Ioc": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.9",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.9",
           "Microsoft.AspNetCore.Identity.UI": "3.1.9",
@@ -33,6 +34,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Microsoft.VisualStudio.Shell.Interop": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.11.0": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.12.0": "16.7.30328.74",
@@ -1557,11 +1559,25 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "CleanAech.App/1.0.0": {
+        "dependencies": {
+          "CleanArch.Data": "1.0.0",
+          "CleanArch.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1"
+        },
+        "runtime": {
+          "CleanAech.App.dll": {}
+        },
+        "compile": {
+          "CleanAech.App.dll": {}
+        }
+      },
       "CleanArch.Data/1.0.0": {
         "dependencies": {
           "CleanArch.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Microsoft.VisualStudio.Shell.Interop": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.11.0": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.12.0": "16.7.30328.74"
@@ -1577,6 +1593,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Microsoft.VisualStudio.Shell.Interop": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.11.0": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.12.0": "16.7.30328.74"
@@ -1586,6 +1603,19 @@
         },
         "compile": {
           "CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Ioc/1.0.0": {
+        "dependencies": {
+          "CleanAech.App": "1.0.0",
+          "CleanArch.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1"
+        },
+        "runtime": {
+          "CleanArch.Ioc.dll": {}
+        },
+        "compile": {
+          "CleanArch.Ioc.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3950,12 +3980,22 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "CleanAech.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CleanArch.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Ioc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

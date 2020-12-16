@@ -1,0 +1,14 @@
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\bin\Debug\netcoreapp3.1\CleanAech.App.deps.json
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\bin\Debug\netcoreapp3.1\CleanAech.App.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\bin\Debug\netcoreapp3.1\CleanAech.App.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\obj\Debug\netcoreapp3.1\CleanAech.App.csprojAssemblyReference.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\obj\Debug\netcoreapp3.1\CleanAech.App.AssemblyInfoInputs.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\obj\Debug\netcoreapp3.1\CleanAech.App.AssemblyInfo.cs
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\obj\Debug\netcoreapp3.1\CleanAech.App.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\obj\Debug\netcoreapp3.1\CleanAech.App.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\bin\Debug\netcoreapp3.1\CleanArch.Data.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\bin\Debug\netcoreapp3.1\CleanArch.Data.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\obj\Debug\netcoreapp3.1\CleanAech.App.csproj.CopyComplete
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanAech.App\obj\Debug\netcoreapp3.1\CleanAech.App.csproj.CoreCompileInputs.cache

@@ -8,7 +8,7 @@ using System.Text;
 
 namespace CleanArch.Data.Repository
 {
-    class CourseRepository : ICourseRepository
+    public class CourseRepository : ICourseRepository
     {
         UniversityDbContext _ctx;
         public CourseRepository(UniversityDbContext Context)

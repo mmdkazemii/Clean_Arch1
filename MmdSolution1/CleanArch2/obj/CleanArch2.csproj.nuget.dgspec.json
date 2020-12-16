@@ -4,6 +4,74 @@
     "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch2\\CleanArch2.csproj": {}
   },
   "projects": {
+    "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanAech.App\\CleanAech.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanAech.App\\CleanAech.App.csproj",
+        "projectName": "CleanAech.App",
+        "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanAech.App\\CleanAech.App.csproj",
+        "packagesPath": "C:\\Users\\mmd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanAech.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj": {
+                "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj"
+              },
+              "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -62,6 +130,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[5.0.1, )"
             },
@@ -154,6 +226,10 @@
               "target": "Package",
               "version": "[5.0.1, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
             "Microsoft.VisualStudio.Shell.Interop": {
               "target": "Package",
               "version": "[16.7.30328.74, )"
@@ -165,6 +241,74 @@
             "Microsoft.VisualStudio.Shell.Interop.12.0": {
               "target": "Package",
               "version": "[16.7.30328.74, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\CleanArch.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\CleanArch.Ioc.csproj",
+        "projectName": "CleanArch.Ioc",
+        "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\CleanArch.Ioc.csproj",
+        "packagesPath": "C:\\Users\\mmd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanAech.App\\CleanAech.App.csproj": {
+                "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanAech.App\\CleanAech.App.csproj"
+              },
+              "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj": {
+                "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -214,6 +358,9 @@
             "projectReferences": {
               "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj": {
                 "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj"
+              },
+              "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\CleanArch.Ioc.csproj": {
+                "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\CleanArch.Ioc.csproj"
               }
             }
           }
@@ -260,6 +407,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[5.0.1, )"
             },

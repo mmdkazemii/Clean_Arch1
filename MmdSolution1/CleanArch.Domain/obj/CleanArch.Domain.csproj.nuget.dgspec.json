@@ -61,6 +61,10 @@
               "target": "Package",
               "version": "[5.0.1, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
             "Microsoft.VisualStudio.Shell.Interop": {
               "target": "Package",
               "version": "[16.7.30328.74, )"

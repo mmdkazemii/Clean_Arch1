@@ -80,9 +80,6 @@ C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\bin\Deb
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.csprojAssemblyReference.cache
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.AssemblyInfoInputs.cache
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.AssemblyInfo.cs
-C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.csproj.CoreCompileInputs.cache
-C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.RazorAssemblyInfo.cache
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.RazorAssemblyInfo.cs
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.TagHelpers.input.cache
@@ -106,3 +103,10 @@ C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Deb
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.dll
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.pdb
 C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.genruntimeconfig.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.csproj.CoreCompileInputs.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\obj\Debug\netcoreapp3.1\CleanArch2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\bin\Debug\netcoreapp3.1\CleanAech.App.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\bin\Debug\netcoreapp3.1\CleanArch.Ioc.dll
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\bin\Debug\netcoreapp3.1\CleanArch.Ioc.pdb
+C:\Users\mmd\source\repos\mmdkazemii\Clean_Arch1\MmdSolution1\CleanArch2\bin\Debug\netcoreapp3.1\CleanAech.App.pdb

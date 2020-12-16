@@ -1620,6 +1620,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Microsoft.VisualStudio.Shell.Interop": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.11.0": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.12.0": "16.7.30328.74"
@@ -6001,6 +6002,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.1",
+      "Microsoft.Extensions.DependencyInjection >= 5.0.1",
       "Microsoft.VisualStudio.Shell.Interop >= 16.7.30328.74",
       "Microsoft.VisualStudio.Shell.Interop.11.0 >= 16.7.30328.74",
       "Microsoft.VisualStudio.Shell.Interop.12.0 >= 16.7.30328.74"
@@ -6068,6 +6070,10 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.0.1, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[5.0.1, )"
           },

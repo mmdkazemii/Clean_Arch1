@@ -1638,6 +1638,21 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "CleanAech.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArch.Data": "1.0.0",
+          "CleanArch.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CleanAech.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanAech.App.dll": {}
+        }
+      },
       "CleanArch.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1645,6 +1660,7 @@
           "CleanArch.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Microsoft.VisualStudio.Shell.Interop": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.11.0": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.12.0": "16.7.30328.74"
@@ -1662,6 +1678,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Microsoft.VisualStudio.Shell.Interop": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.11.0": "16.7.30328.74",
           "Microsoft.VisualStudio.Shell.Interop.12.0": "16.7.30328.74"
@@ -1671,6 +1688,21 @@
         },
         "runtime": {
           "bin/placeholder/CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Ioc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanAech.App": "1.0.0",
+          "CleanArch.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Ioc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Ioc.dll": {}
         }
       }
     }
@@ -5984,6 +6016,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "CleanAech.App/1.0.0": {
+      "type": "project",
+      "path": "../CleanAech.App/CleanAech.App.csproj",
+      "msbuildProject": "../CleanAech.App/CleanAech.App.csproj"
+    },
     "CleanArch.Data/1.0.0": {
       "type": "project",
       "path": "../CleanArch.Data/CleanArch.Data.csproj",
@@ -5993,11 +6030,17 @@
       "type": "project",
       "path": "../CleanArch.Domain/CleanArch.Domain.csproj",
       "msbuildProject": "../CleanArch.Domain/CleanArch.Domain.csproj"
+    },
+    "CleanArch.Ioc/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Ioc/CleanArch.Ioc.csproj",
+      "msbuildProject": "../CleanArch.Ioc/CleanArch.Ioc.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "CleanArch.Data >= 1.0.0",
+      "CleanArch.Ioc >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.9",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.9",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.9",
@@ -6006,6 +6049,7 @@
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.1",
+      "Microsoft.Extensions.DependencyInjection >= 5.0.1",
       "Microsoft.VisualStudio.Shell.Interop >= 16.7.30328.74",
       "Microsoft.VisualStudio.Shell.Interop.11.0 >= 16.7.30328.74",
       "Microsoft.VisualStudio.Shell.Interop.12.0 >= 16.7.30328.74"
@@ -6043,6 +6087,9 @@
           "projectReferences": {
             "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj": {
               "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Data\\CleanArch.Data.csproj"
+            },
+            "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\CleanArch.Ioc.csproj": {
+              "projectPath": "C:\\Users\\mmd\\source\\repos\\mmdkazemii\\Clean_Arch1\\MmdSolution1\\CleanArch.Ioc\\CleanArch.Ioc.csproj"
             }
           }
         }
@@ -6089,6 +6136,10 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.0.1, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[5.0.1, )"
           },
