@@ -15,9 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{FC4760B7-7D05-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch2", "CleanArch2\CleanArch2.csproj", "{FF893CFE-8519-4283-AD96-C9ABC30C897B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Domain", "CleanArch.Domain\CleanArch.Domain.csproj", "{35288F2E-731E-4D41-9CE9-C47FA1350138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Domain", "CleanArch.Domain\CleanArch.Domain.csproj", "{35288F2E-731E-4D41-9CE9-C47FA1350138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Data", "CleanArch.Data\CleanArch.Data.csproj", "{E858E13C-D5C6-4201-812C-B603BFDA4989}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Data", "CleanArch.Data\CleanArch.Data.csproj", "{E858E13C-D5C6-4201-812C-B603BFDA4989}"
 	ProjectSection(ProjectDependencies) = postProject
 		{35288F2E-731E-4D41-9CE9-C47FA1350138} = {35288F2E-731E-4D41-9CE9-C47FA1350138}
 	EndProjectSection
